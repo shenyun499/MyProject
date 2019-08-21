@@ -1,0 +1,13 @@
+body,a { font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;font-size: 16px;;}
+.all a {text-decoration: none;}
+.top { height: 50px;line-height: 50px;text-align: left;background: #F5F5F5;font-size: 16px;}
+.search { width: 60%;float: left;margin-top: 10px;margin-right: 5px;}
+.img { height: 400px;}
+.img img { width: 100%;}
+.more { margin-right: 25px;}
+.menu1 { margin-top: 10px;}
+.menu { height: 40px;background: #1F3B7B;color: white;}
+.menu a { color: white;}
+.t { border: 1px solid darkgray;}
+.bo { height: 160px; background: #2A2730;color: white;}
+.f { margin-top: 80px;}
